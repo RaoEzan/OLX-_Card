@@ -1,0 +1,118 @@
+
+ #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* styles.css */
+/* .btn {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+} */
+.b8e180fa {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex
+;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: .6rem;
+  margin-top: 1.6rem;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+body{
+  color: aliceblue;
+} 
+
+
+.b9d6f460 {
+  background-image: url(/assets/sponsor-desktop.6da51e8….png), url(/assets/lanterns-desktop.64227e1….png), url(/assets/masjid-desktop.4c718e7….png), url(/assets/stars.b92bfca….png), -webkit-gradient(linear, left top, left bottom, from(#17284e), to(#1d3c81));
+  background-image: url(/assets/sponsor-desktop.6da51e8….png), url(/assets/lanterns-desktop.64227e1….png), url(/assets/masjid-desktop.4c718e7….png), url(/assets/stars.b92bfca….png), linear-gradient(#17284e, #1d3c81);
+  background-position: 100%, 0 0, 0 100%, top, 50%;
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat-x, no-repeat;
+  background-size: auto 100%, 16%, 20%, 25%, 100%;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 0 0 2px #0f5dc4;
+  box-shadow: inset 0 0 0 2px #0f5dc4;
+  color: #fff;
+  padding: 1.6rem;
+}
+
+.b9d6f460 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex
+;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0 auto 1rem;
+  max-width: 1280px;
+  -webkit-transition: max-width .25s ease-in;
+  transition: max-width .25s ease-in;
+  width: 100%;
+}
+
+.f181350c {
+  /* gap: 1.6rem; */
+  /* translate: -4rem; */
+  translate: var(--content-adjustment, -4rem);
+}
+.f562d172 {
+  color: #fff;
+  gap: .8rem;
+  height: 10.7rem;
+  min-height: 5.5rem;
+  padding: 2rem 2rem 2.4rem;
+  position: relative;
+  width: 18.1rem;
+  z-index: 0;
+}
+._4122130d {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
