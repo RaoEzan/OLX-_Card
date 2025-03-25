@@ -91,7 +91,7 @@ const App = () => {
               {groupedProducts[category].map(item =>  (
                 <Card
                 
-                  key={item.id}
+                key={item.id}
                   price={item.price}
                   title={item.title}
                   image={item.thumbnail}
@@ -101,6 +101,7 @@ const App = () => {
             </div>
           </div>
         ))}
+<div class="f9c212f8"><div class="a29e4ea1"><div class="_26fd7490"><span>Free Classifieds in Pakistan</span> . © 2006-2025 OLX</div></div></div>
       </div>
     </>
   );

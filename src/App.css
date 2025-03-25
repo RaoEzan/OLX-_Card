@@ -116,3 +116,23 @@ body{
   -ms-flex: 1;
   flex: 1;
 }
+.f9c212f8 {
+  background-color: #002f34;
+  color: #f2eded;
+  padding: 1.6rem 0;
+  text-align: right;
+  width: 132.2%;
+}
+
+
+._26fd7490 {
+  color: #faf3f3;
+  font-size: 1.204rem;
+}
+.a29e4ea1 {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+  -webkit-transition: max-width .25s ease-in;
+  transition: max-width .25s ease-in;
+}
